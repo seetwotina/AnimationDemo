@@ -5,7 +5,7 @@ class Sonic {
 
 		this.x = 0;
 		this.y = 0;
-		this.speed = 350;
+		this.speed = 500;
 	};
 
 	update() {
